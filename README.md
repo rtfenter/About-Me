@@ -47,9 +47,6 @@ Value and meaning drift without strong contracts and reconciliation.
 - Loyalty Drift Dashboard — https://github.com/rtfenter/Loyalty-Drift-Dashboard  
 - Loyalty Event Contract Validator — https://github.com/rtfenter/Loyalty-Event-Contract-Validator  
 
-**Demo**  
-- Live Demo — https://rtfenter.github.io/Loyalty-Event-Contract-Validator/
-
 ---
 
 ## 3. Applied Intelligence Systems Series  
