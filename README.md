@@ -36,7 +36,7 @@ Applied loyalty architecture for **FX, tiering, reconciliation, and value drift*
 Repos:  
 [![Loyalty Points Simulator](https://img.shields.io/badge/Loyalty%20Points%20Simulator-000?style=flat)](https://github.com/rtfenter/Loyalty-Points-Simulator)  
 [![Loyalty Drift Dashboard](https://img.shields.io/badge/Loyalty%20Drift%20Dashboard-000?style=flat)](https://github.com/rtfenter/Loyalty-Drift-Dashboard)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge)](https://rtfenter.github.io/Loyalty-Event-Contract-Validator/)
+[![Loyalty Event Contract Validator](https://img.shields.io/badge/Loyalty%20Event%20Contract%20Validator-000?style=flat)](https://github.com/rtfenter/Loyalty-Event-Contract-Validator)  
 
 ---
 
