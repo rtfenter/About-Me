@@ -1,3 +1,16 @@
+# Hi, I’m Rebecca  
+### Product Manager specializing in scaling B2B SaaS and platform systems
+
+I specialize in scaling **B2B SaaS and platform systems** with proven adoption across global, multi-system environments. I lead the product side of core infrastructure — governing data integrations, system logic, and **AI-ready architecture** across engineering and business teams.
+
+I’ve led multi-system platforms built for governance, analytics, and long-term extensibility, aligning engineering delivery with business outcomes and real user needs. My experience spans **API-driven systems, event-informed workflows, and cross-system state transitions**, with familiarity across MuleSoft, Snowflake, Salesforce, and Kafka.
+
+**AI-aligned product design**, in my work, means building systems structured for automation, intelligent analytics, and responsible scale.
+
+Beyond enterprise delivery, my independent work examines how complex systems preserve **truth, coherence, and decision integrity** under uncertainty — and how AI can be built to do the same.
+
+---
+
 # Portfolio Series  
 Each series begins with its **main hub repo**, which organizes prototypes, diagrams, and essays.
 
@@ -75,10 +88,7 @@ Responsible AI needs architecture that protects interpretation, constraints, and
 **Main Hub:**  
 https://github.com/rtfenter/RIA-Research-Notes
 
-RIA is my independent architecture for **holding contradiction, preserving coherence, and preventing drift** in complex systems — human or machine.
-
-It underpins how I think about truth, architecture, and alignment across all three portfolio series.  
-The hub repo includes the conceptual models, loops, explainers, and system notes that inform the prototypes across this GitHub.
+Recursive Identity Architecture (RIA) is my independent architecture for holding contradiction and preserving coherence in complex systems — human or machine.. It formalizes loops and guardrails that protect authorship and enable clarity under uncertainty. [Link to full portfolio coming soon.]
 
 ---
 
