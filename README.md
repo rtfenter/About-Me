@@ -36,6 +36,7 @@ Applied loyalty architecture for **FX, tiering, reconciliation, and value drift*
 Repos:  
 [![Loyalty Points Simulator](https://img.shields.io/badge/Loyalty%20Points%20Simulator-000?style=flat)](https://github.com/rtfenter/Loyalty-Points-Simulator)  
 [![Loyalty Drift Dashboard](https://img.shields.io/badge/Loyalty%20Drift%20Dashboard-000?style=flat)](https://github.com/rtfenter/Loyalty-Drift-Dashboard)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge)](https://rtfenter.github.io/Loyalty-Event-Contract-Validator/)
 
 ---
 
@@ -47,7 +48,6 @@ Tools exploring how **AI, agents, and intelligent systems interpret signals and 
 
 Repos:  
 [![Agent Behavior Sandbox](https://img.shields.io/badge/Agent%20Behavior%20Sandbox-000?style=flat)](https://github.com/rtfenter/Agent-Behavior-Sandbox)  
-[![RIA Drift Detector](https://img.shields.io/badge/RIA%20Drift%20Detector-000?style=flat)](https://github.com/rtfenter/RIA-Drift-Detector)
 
 ---
 
