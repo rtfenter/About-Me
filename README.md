@@ -13,7 +13,7 @@ Beyond enterprise delivery, my independent work examines how complex systems pre
 
 # 🧭 Portfolio Overview
 
-This portfolio is organized into six series, starting with the most accessible AI/ML interaction prototypes and progressing toward deeper system architecture and conceptual work.
+This portfolio is organized into six series, beginning with the most accessible AI/ML interaction prototypes and progressing toward deeper system architecture and conceptual work.
 
 ---
 
