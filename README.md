@@ -1,7 +1,7 @@
 # Hi, I’m Rebecca  
 ### Product Manager specializing in scaling B2B SaaS and platform systems
 
-I specialize in scaling B2B SaaS and platform systems across global, multi-service environments. I lead the product side of core infrastructure — governing data integrations, system logic, and **AI-ready architecture** across engineering and business teams.
+I specialize in scaling **B2B SaaS and platform systems** across global, multi-service environments. I lead the product side of core infrastructure — governing data integrations, system logic, and **AI-ready architecture** across engineering and business teams.
 
 My work focuses on **API-driven systems, event-informed workflows, and cross-system state transitions**, with familiarity across MuleSoft, Snowflake, Salesforce, and Kafka.
 
@@ -13,7 +13,7 @@ Beyond enterprise delivery, my independent work examines how complex systems pre
 
 # Portfolio Overview
 
-This portfolio is organized into six series, beginning with the most accessible AI/ML interaction prototypes and progressing toward deeper system architecture and conceptual work.
+This portfolio is organized into **seven series**, beginning with accessible AI/ML interaction prototypes and progressing toward deeper system architecture, platform tooling, and conceptual frameworks.
 
 ---
 
@@ -35,7 +35,22 @@ Accessible demonstrations of retrieval, prompting, embeddings, explainability, a
 
 ---
 
-# 2. Loyalty Systems Series  
+# 2. AI Agent Case Studies Series  
+Product-driven case studies analyzing publicly observable behaviors in modern AI agents.
+
+**Main Hub:**  
+https://github.com/rtfenter/AI-Agent-Case-Studies
+
+**Case Studies**  
+- AI Agent Meaning Drift — Case Study  
+  https://github.com/rtfenter/AI-Agent-Meaning-Drift  
+
+**Focus**  
+Interpretation drift, safety/policy interaction, memory compression, and alignment boundaries — based only on visible model behavior and public documentation.
+
+---
+
+# 3. Loyalty Systems Series  
 Applied loyalty architecture focused on **FX, tiering, reconciliation, partner rules, and value drift**.
 
 **Main Hub:**  
@@ -59,7 +74,7 @@ Loyalty mechanics as distributed systems: event quality, FX normalization, recon
 
 ---
 
-# 3. Systems of Trust Series  
+# 4. Systems of Trust Series  
 Tools and models for **event governance, schema evolution, routing correctness, and cross-service meaning alignment**.
 
 **Main Hub:**  
@@ -86,7 +101,7 @@ Event contracts, schema drift, routing rules, dependency impacts, and semantic a
 
 ---
 
-# 4. Applied Intelligence Systems Series  
+# 5. Applied Intelligence Systems Series  
 System-level views of how agents, models, and decision engines interpret signals and drift over time.
 
 **Main Hub:**  
@@ -106,7 +121,7 @@ Interpretation layers, rule application, drift, alignment boundaries, and failur
 
 ---
 
-# 5. Platform Systems & Internal Tooling Series  
+# 6. Platform Systems & Internal Tooling Series  
 Internal platform tools for **integration pipelines, rule engines, debugging workflows, and data ownership mapping**.
 
 **Main Hub:**  
@@ -126,7 +141,7 @@ Enterprise platform logic: ETL flows, routing, invariants, contract changes, inc
 
 ---
 
-# 6. Recursive Identity Architecture (RIA)  
+# 7. Recursive Identity Architecture (RIA)  
 Research notes and conceptual architecture for **holding contradiction, preserving coherence, and preventing drift** in complex systems—human or machine.
 
 **Main Hub:**  
