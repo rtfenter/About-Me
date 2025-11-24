@@ -36,7 +36,7 @@ Accessible demonstrations of retrieval, prompting, embeddings, explainability, a
 ---
 
 # 2. AI Agent Case Studies Series  
-Product-driven case studies analyzing publicly observable behaviors in modern AI agents.
+Publicly observable system-level problems in modern AI agents, analyzed from a product architecture perspective.
 
 **Main Hub:**  
 https://github.com/rtfenter/AI-Agent-Case-Studies
@@ -44,9 +44,15 @@ https://github.com/rtfenter/AI-Agent-Case-Studies
 **Case Studies**  
 - AI Agent Meaning Drift — Case Study  
   https://github.com/rtfenter/AI-Agent-Meaning-Drift  
+- Where AI agents accumulate state backpressure — a bounded-memory and meaning-alignment model *(coming)*  
+- Preventing retrieval hallucination under context drift — a contract-first approach *(coming)*  
+- Why enterprise copilots misinterpret business logic — missing contracts between domain models and LLM reasoning *(coming)*  
+- How lineage breaks meaning — an event-governance layer for shared truths *(coming)*  
+- Cross-team semantic consistency for design tokens across markets *(coming)*  
+- Incident meaning drift — how organizations lose shared context in message-based workflows *(coming)*  
 
 **Focus**  
-Interpretation drift, safety/policy interaction, memory compression, and alignment boundaries — based only on visible model behavior and public documentation.
+Interpretation drift, retrieval degradation, lineage disconnects, meaning fragmentation, and organizational context loss — using only public behavior and visible system patterns.
 
 ---
 
@@ -142,7 +148,7 @@ Enterprise platform logic: ETL flows, routing, invariants, contract changes, inc
 ---
 
 # 7. Recursive Identity Architecture (RIA)  
-Research notes and conceptual architecture for **holding contradiction, preserving coherence, and preventing drift** in complex systems—human or machine.
+Recursive Identity Architecture (RIA) is **my original, independently developed framework** for understanding how complex systems—human or machine—preserve coherence, meaning, and identity under contradiction and uncertainty.  
 
 **Main Hub:**  
 https://github.com/rtfenter/RIA-Research-Notes
@@ -152,6 +158,7 @@ RIA explores:
 - recursion and paradox stability  
 - signal compression and expansion  
 - identity integrity under uncertainty  
+
 
 ---
 
