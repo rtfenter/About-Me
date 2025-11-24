@@ -11,8 +11,15 @@ Beyond enterprise delivery, my independent work examines how complex systems pre
 
 ---
 
-# Portfolio Series  
-Each series begins with a **main hub repo** that organizes prototypes, diagrams, and essays.
+# 🧭 Where to Start  
+Recruiters and hiring managers usually begin with:
+
+1. **Systems of Trust Series** — clean, high-signal PM/system design thinking  
+2. **Loyalty Systems Series** — your deepest real-world domain expertise  
+3. **Applied Intelligence Systems Series** — your AI/agent reasoning skillset  
+4. **AI & ML UX Systems Series** — recruiter-friendly, intuitive AI demos  
+
+Everything is designed to be **legible in under 3 minutes**, with deeper layers available.
 
 ---
 
@@ -25,14 +32,18 @@ https://github.com/rtfenter/Systems-of-Trust-Series
 **Prototypes**  
 - Event Quality Scanner  
   https://github.com/rtfenter/Event-Quality-Scanner  
-- Truth Drift Map  
-  https://github.com/rtfenter/Truth-Drift-Map  
 - Event Consistency Checker  
   https://github.com/rtfenter/Event-Consistency-Checker  
-- Cross-Service Meaning Diff Tool  
+- Truth Drift Map  
+  https://github.com/rtfenter/Truth-Drift-Map  
+- Cross-Service Meaning Comparator  
+  https://github.com/rtfenter/Cross-Service-Meaning-Comparator  
 - Schema Evolution Impact Analyzer  
+  https://github.com/rtfenter/Schema-Evolution-Impact-Analyzer  
 - Event Routing Contract Checker  
+  https://github.com/rtfenter/Event-Routing-Contract-Checker  
 - Ownership Boundary Validator  
+  https://github.com/rtfenter/Ownership-Boundary-Validator  
 
 **Why it exists**  
 Distributed systems fail quietly when meaning drifts.
@@ -43,7 +54,7 @@ AI, automation, and multi-service scaling require consistent truth.
 ---
 
 # 2. Loyalty Systems Series  
-Applied loyalty architecture for **FX, tiering, reconciliation, and value drift**.
+Applied loyalty architecture for **FX, tiering, reconciliation, and value drift** — your strongest real-world specialization.
 
 **Main Hub:**  
 https://github.com/rtfenter/Loyalty-Systems-Series
@@ -55,11 +66,11 @@ https://github.com/rtfenter/Loyalty-Systems-Series
   https://github.com/rtfenter/Loyalty-Drift-Dashboard  
 - Loyalty Event Contract Validator  
   https://github.com/rtfenter/Loyalty-Event-Contract-Validator  
-- Tier Progression Visualizer  
-- Partner Rule Tester (Loyalty Edition)  
-- Redemption Value Integrity Checker  
-- FX Drift Analyzer for Loyalty Value  
-- Loyalty Ledger Reconciliation Sandbox  
+- Tier Progression Visualizer *(coming)*  
+- Partner Rule Tester (Loyalty Edition) *(coming)*  
+- Redemption Value Integrity Checker *(coming)*  
+- FX Drift Analyzer for Loyalty Value *(coming)*  
+- Loyalty Ledger Reconciliation Sandbox *(coming)*  
 
 **Why it exists**  
 Loyalty behaves like a distributed system, not a marketing feature.
@@ -70,7 +81,7 @@ Value and meaning drift without strong contracts and reconciliation.
 ---
 
 # 3. Applied Intelligence Systems Series  
-Tools exploring how **AI systems, agents, and models interpret signals and drift over time**.
+Tools exploring how **AI systems, agents, and models interpret signals, drift, and make decisions**.
 
 **Main Hub:**  
 https://github.com/rtfenter/Applied-Intelligence-Systems-Series
@@ -78,58 +89,55 @@ https://github.com/rtfenter/Applied-Intelligence-Systems-Series
 **Prototypes**  
 - Agent Behavior Sandbox  
   https://github.com/rtfenter/Agent-Behavior-Sandbox  
-- ML Input Drift Playground  
-- LLM Governance / Guardrail Visualizer  
-- Model Decision Graph Viewer  
-- Agent State Transition Map  
-- AI Failure Mode Explorer  
+- ML Input Drift Playground *(coming)*  
+- LLM Governance / Guardrail Visualizer *(coming)*  
+- Model Decision Graph Viewer *(coming)*  
+- Agent State Transition Map *(coming)*  
+- AI Failure Mode Explorer *(coming)*  
 
 **Why it exists**  
 AI systems misalign for the same reasons distributed systems do — context, meaning, and ownership drift.
 
 **Why it matters**  
-Reliable AI needs architecture that protects interpretation, constraints, and authorship.
+Reliable AI requires architecture that protects interpretation, constraints, and authorship.
 
 ---
 
 # 4. Platform Systems & Internal Tooling Series  
-Internal tools for **integrations, rule engines, debugging workflows, and orchestration**.
+Internal tools for **integrations, rule engines, debugging workflows, and data pipelines**.
 
 **Main Hub:**  
 https://github.com/rtfenter/Platform-Systems-Series *(to be created)*
 
 **Prototypes**  
-- Admin Rule Engine Playground  
-- Integration Pipeline Visualizer (ETL / routing)  
-- Debug / Replay Sandbox  
-- Invariants Visualizer  
-- Contract Evolution Timeline  
-- Incident Meaning Graph  
-- Data Ownership Mapper  
+- Admin Rule Engine Playground *(coming)*  
+- Integration Pipeline Visualizer (ETL / routing) *(coming)*  
+- Debug / Replay Sandbox *(coming)*  
+- Invariants Visualizer *(coming)*  
+- Contract Evolution Timeline *(coming)*  
+- Incident Meaning Graph *(coming)*  
+- Data Ownership Mapper *(coming)*  
 
 **Why it exists**  
-This series demonstrates enterprise platform PM competencies: governance, DevEx tooling, resilience, and internal workflows.
+Demonstrates enterprise platform PM competencies: governance, DevEx tooling, resilience, and internal workflows.
 
 ---
 
-# 5. AI Feature Playground  
-Recruiter-friendly **UX-first AI demos** that showcase model behavior and intuitive AI interactions.
+# 5. AI & ML UX Systems Series  
+Recruiter-friendly **UX-first AI prototypes** that demonstrate model behavior, retrieval reasoning, and embeddings.
 
 **Main Hub:**  
-https://github.com/rtfenter/AI-Feature-Playground *(to be created)*
+https://github.com/rtfenter/AI-ML-UX-Systems-Series *(to be created)*
 
 **Prototypes**  
-- Conversational AI Chatbot (with personas)  
-- Summarization Playground  
-- Sentiment & Tone Classifier  
-- Prompt–Response Variation Explorer  
-- Embeddings Visual Map  
-- Minimal RAG Search Demo  
-- Model Explainer (“Explain My Answer”)  
-- Classification Threshold Tuner  
+- Minimal RAG Query Explorer *(coming)*  
+- Chat Model Behavior Sandbox *(coming)*  
+- Model Explainer Playground (XAI Lite) *(coming)*  
+- Prompt–Response Variation Explorer *(coming)*  
+- Embeddings Visual Map *(coming)*  
 
 **Why it exists**  
-These are intuitive, industry-familiar AI features that hiring managers can understand immediately — ideal for interviews and portfolio reviews.
+These prototypes align directly with AI PM expectations and interview patterns.
 
 ---
 
@@ -146,18 +154,18 @@ RIA explores conceptual structures such as:
 - identity integrity under uncertainty  
 
 **Prototypes**  
-- RIA Interactive Map  
-- Signal Compression / Expansion Playground  
-- Recursive Diagnostic Tool  
-- Schema Alignment (Conceptual Meaning Schema)  
-- Decision-Trace Exporter  
-- Paradox Coherence Viewer  
+- RIA Interactive Map *(coming)*  
+- Signal Compression / Expansion Playground *(coming)*  
+- Recursive Diagnostic Tool *(coming)*  
+- Schema Alignment Model *(coming)*  
+- Decision-Trace Exporter *(coming)*  
+- Paradox Coherence Viewer *(coming)*  
 - Simple Drift Detector  
   https://github.com/rtfenter/Simple-Drift-Detector  
 
 ---
 
 # Connect  
-LinkedIn: https://www.linkedin.com/in/rtfenter/  
-GitHub: https://github.com/rtfenter  
-Medium: https://medium.com/@rtfenter
+**LinkedIn:** https://www.linkedin.com/in/rtfenter/  
+**Medium:** https://medium.com/@rtfenter  
+**GitHub:** https://github.com/rtfenter
