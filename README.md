@@ -1,13 +1,13 @@
 # Hi, I’m Rebecca  
 ### Product Manager specializing in scaling B2B SaaS and platform systems
 
-I specialize in scaling **B2B SaaS and platform systems** with proven adoption across global, multi-system environments. I lead the product side of core infrastructure — governing data integrations, system logic, and **AI-ready architecture** across engineering and business teams.
+I specialize in scaling B2B SaaS and platform systems across global, multi-service environments. I lead the product side of core infrastructure — governing data integrations, system logic, and **AI-ready architecture** across engineering and business teams.
 
 My work focuses on **API-driven systems, event-informed workflows, and cross-system state transitions**, with familiarity across MuleSoft, Snowflake, Salesforce, and Kafka.
 
 **AI-aligned product design**, in this context, means building systems structured for automation, intelligent analytics, and responsible scale.
 
-Beyond enterprise delivery, my independent work examines how complex systems preserve **truth, coherence, and decision integrity** under uncertainty — and how AI can be built to do the same.
+Beyond enterprise delivery, my independent work examines how complex systems preserve **truth, coherence, and decision integrity** under uncertainty — and how AI can be shaped to do the same.
 
 ---
 
