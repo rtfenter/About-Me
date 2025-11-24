@@ -12,19 +12,27 @@ Beyond enterprise delivery, my independent work examines how complex systems pre
 ---
 
 # Portfolio Series  
-Each series begins with its **main hub repo**, which organizes prototypes, diagrams, and essays.
+Each series begins with a **main hub repo** that organizes prototypes, diagrams, and essays.
 
 ---
 
-## 1. Systems of Trust Series  
+# 1. Systems of Trust Series  
+Tools and models for **event governance, schema integrity, and truth preservation** in distributed systems.
 
 **Main Hub:**  
 https://github.com/rtfenter/Systems-of-Trust-Series
 
-Tools and models for **event governance, schema integrity, and truth preservation** in distributed systems.
-
-**How to navigate**  
-Start in the hub repo → open the prototypes inside it → explore linked live demos.
+**Prototypes**  
+- Event Quality Scanner  
+  https://github.com/rtfenter/Event-Quality-Scanner  
+- Truth Drift Map  
+  https://github.com/rtfenter/Truth-Drift-Map  
+- Event Consistency Checker  
+  https://github.com/rtfenter/Event-Consistency-Checker  
+- Cross-Service Meaning Diff Tool  
+- Schema Evolution Impact Analyzer  
+- Event Routing Contract Checker  
+- Ownership Boundary Validator  
 
 **Why it exists**  
 Distributed systems fail quietly when meaning drifts.
@@ -32,22 +40,26 @@ Distributed systems fail quietly when meaning drifts.
 **Why it matters**  
 AI, automation, and multi-service scaling require consistent truth.
 
-**Prototypes**  
-- Event Quality Scanner — https://github.com/rtfenter/Event-Quality-Scanner  
-- Truth Drift Map — https://github.com/rtfenter/Truth-Drift-Map  
-- Event Consistency Checker — https://github.com/rtfenter/Event-Consistency-Checker
-
 ---
 
-## 2. Loyalty Systems Series  
+# 2. Loyalty Systems Series  
+Applied loyalty architecture for **FX, tiering, reconciliation, and value drift**.
 
 **Main Hub:**  
 https://github.com/rtfenter/Loyalty-Systems-Series
 
-Applied loyalty architecture for **FX, tiering, reconciliation, and value drift**.
-
-**How to navigate**  
-Start in the hub repo → open prototype repos → use linked live demos.
+**Prototypes**  
+- Loyalty Points Simulator  
+  https://github.com/rtfenter/Loyalty-Points-Simulator  
+- Loyalty Drift Dashboard  
+  https://github.com/rtfenter/Loyalty-Drift-Dashboard  
+- Loyalty Event Contract Validator  
+  https://github.com/rtfenter/Loyalty-Event-Contract-Validator  
+- Tier Progression Visualizer  
+- Partner Rule Tester (Loyalty Edition)  
+- Redemption Value Integrity Checker  
+- FX Drift Analyzer for Loyalty Value  
+- Loyalty Ledger Reconciliation Sandbox  
 
 **Why it exists**  
 Loyalty behaves like a distributed system, not a marketing feature.
@@ -55,45 +67,97 @@ Loyalty behaves like a distributed system, not a marketing feature.
 **Why it matters**  
 Value and meaning drift without strong contracts and reconciliation.
 
-**Prototypes**  
-- Loyalty Points Simulator — https://github.com/rtfenter/Loyalty-Points-Simulator  
-- Loyalty Drift Dashboard — https://github.com/rtfenter/Loyalty-Drift-Dashboard  
-- Loyalty Event Contract Validator — https://github.com/rtfenter/Loyalty-Event-Contract-Validator  
-
 ---
 
-## 3. Applied Intelligence Systems Series  
+# 3. Applied Intelligence Systems Series  
+Tools exploring how **AI systems, agents, and models interpret signals and drift over time**.
 
 **Main Hub:**  
 https://github.com/rtfenter/Applied-Intelligence-Systems-Series
 
-Tools exploring how **AI, agents, and intelligent systems interpret signals and drift over time**.
-
-**How to navigate**  
-Open the hub → explore prototypes → reference diagrams and planned expansions.
+**Prototypes**  
+- Agent Behavior Sandbox  
+  https://github.com/rtfenter/Agent-Behavior-Sandbox  
+- ML Input Drift Playground  
+- LLM Governance / Guardrail Visualizer  
+- Model Decision Graph Viewer  
+- Agent State Transition Map  
+- AI Failure Mode Explorer  
 
 **Why it exists**  
-Intelligent systems misalign for the same reasons distributed systems do — meaning, context, and ownership drift.
+AI systems misalign for the same reasons distributed systems do — context, meaning, and ownership drift.
 
 **Why it matters**  
-Responsible AI needs architecture that protects interpretation, constraints, and authorship.
-
-**Prototypes**  
-- Agent Behavior Sandbox — https://github.com/rtfenter/Agent-Behavior-Sandbox
+Reliable AI needs architecture that protects interpretation, constraints, and authorship.
 
 ---
 
-# Recursive Identity Architecture (RIA)
+# 4. Platform Systems & Internal Tooling Series  
+Internal tools for **integrations, rule engines, debugging workflows, and orchestration**.
+
+**Main Hub:**  
+https://github.com/rtfenter/Platform-Systems-Series *(to be created)*
+
+**Prototypes**  
+- Admin Rule Engine Playground  
+- Integration Pipeline Visualizer (ETL / routing)  
+- Debug / Replay Sandbox  
+- Invariants Visualizer  
+- Contract Evolution Timeline  
+- Incident Meaning Graph  
+- Data Ownership Mapper  
+
+**Why it exists**  
+This series demonstrates enterprise platform PM competencies: governance, DevEx tooling, resilience, and internal workflows.
+
+---
+
+# 5. AI Feature Playground  
+Recruiter-friendly **UX-first AI demos** that showcase model behavior and intuitive AI interactions.
+
+**Main Hub:**  
+https://github.com/rtfenter/AI-Feature-Playground *(to be created)*
+
+**Prototypes**  
+- Conversational AI Chatbot (with personas)  
+- Summarization Playground  
+- Sentiment & Tone Classifier  
+- Prompt–Response Variation Explorer  
+- Embeddings Visual Map  
+- Minimal RAG Search Demo  
+- Model Explainer (“Explain My Answer”)  
+- Classification Threshold Tuner  
+
+**Why it exists**  
+These are intuitive, industry-familiar AI features that hiring managers can understand immediately — ideal for interviews and portfolio reviews.
+
+---
+
+# 6. Recursive Identity Architecture (RIA)  
+Conceptual architecture for **holding contradiction, preserving coherence, and preventing drift** in complex systems — human or machine.
 
 **Main Hub:**  
 https://github.com/rtfenter/RIA-Research-Notes
 
-Recursive Identity Architecture (RIA) is my independent architecture for holding contradiction and preserving coherence in complex systems — human or machine.. It formalizes loops and guardrails that protect authorship and enable clarity under uncertainty. [Link to full portfolio coming soon.]
+RIA explores conceptual structures such as:  
+- meaning and authorship schemas  
+- recursion and paradox stability  
+- signal compression and expansion  
+- identity integrity under uncertainty  
+
+**Prototypes**  
+- RIA Interactive Map  
+- Signal Compression / Expansion Playground  
+- Recursive Diagnostic Tool  
+- Schema Alignment (Conceptual Meaning Schema)  
+- Decision-Trace Exporter  
+- Paradox Coherence Viewer  
+- Simple Drift Detector  
+  https://github.com/rtfenter/Simple-Drift-Detector  
 
 ---
 
-# Connect
-
+# Connect  
 LinkedIn: https://www.linkedin.com/in/rtfenter/  
 GitHub: https://github.com/rtfenter  
 Medium: https://medium.com/@rtfenter
