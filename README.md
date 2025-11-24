@@ -143,4 +143,4 @@ RIA explores:
 # Connect  
 **LinkedIn:** https://www.linkedin.com/in/rtfenter/  
 **Medium:** https://medium.com/@rtfenter  
-**GitHub: **https://github.com/rtfenter
+**GitHub:** https://github.com/rtfenter
