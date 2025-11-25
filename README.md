@@ -76,13 +76,13 @@ https://github.com/rtfenter/Loyalty-Systems-Series
   https://github.com/rtfenter/Loyalty-Tier-Progression-Visualizer  
 
 - **Partner Rule Tester (Loyalty Edition)**  
-  https://github.com/rtfenter/Partner-Rule-Tester-Loyalty  
+  https://github.com/rtfenter/Loyalty-Partner-Rule-Tester  
 
 - **Redemption Value Integrity Checker**  
-  https://github.com/rtfenter/Redemption-Value-Integrity-Checker  
+  https://github.com/rtfenter/Loyalty-Redemption-Value-Checker  
 
 - **FX Drift Analyzer for Loyalty Value**  
-  https://github.com/rtfenter/FX-Drift-Analyzer  
+  https://github.com/rtfenter/Loyalty-FX-Drift-Analyzer  
 
 - **Loyalty Ledger Reconciliation Sandbox** *(coming)*  
 
