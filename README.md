@@ -63,17 +63,29 @@ Applied loyalty architecture focused on **FX, tiering, reconciliation, partner r
 https://github.com/rtfenter/Loyalty-Systems-Series
 
 **Prototypes**  
-- Loyalty Points Simulator  
+- **Loyalty Points Simulator**  
   https://github.com/rtfenter/Loyalty-Points-Simulator  
-- Loyalty Drift Dashboard  
+
+- **Loyalty Drift Dashboard**  
   https://github.com/rtfenter/Loyalty-Drift-Dashboard  
-- Loyalty Event Contract Validator  
+
+- **Loyalty Event Contract Validator**  
   https://github.com/rtfenter/Loyalty-Event-Contract-Validator  
-- Tier Progression Visualizer *(coming)*  
-- Partner Rule Tester *(coming)*  
-- Redemption Value Integrity Checker *(coming)*  
-- FX Drift Analyzer *(coming)*  
-- Loyalty Ledger Reconciliation Sandbox *(coming)*  
+
+- **Tier Progression Visualizer**  
+  https://github.com/rtfenter/Loyalty-Tier-Progression-Visualizer  
+
+- **Partner Rule Tester (Loyalty Edition)**  
+  https://github.com/rtfenter/Partner-Rule-Tester-Loyalty  
+
+- **Redemption Value Integrity Checker**  
+  https://github.com/rtfenter/Redemption-Value-Integrity-Checker  
+
+- **FX Drift Analyzer for Loyalty Value**  
+  https://github.com/rtfenter/FX-Drift-Analyzer  
+
+- **Loyalty Ledger Reconciliation Sandbox** *(coming)*  
+
 
 **Focus**  
 Loyalty mechanics as distributed systems: event quality, FX normalization, reconciliation, and cross-market value alignment.
