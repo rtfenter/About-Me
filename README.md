@@ -39,11 +39,11 @@ Accessible demonstrations of retrieval, prompting, embeddings, explainability, a
 Publicly observable system-level problems in modern AI agents, analyzed from a product architecture perspective.
 
 **Main Hub:**  
-https://github.com/rtfenter/AI-Agent-Case-Studies
+https://github.com/rtfenter/Product-Architecture-Case-Studies
 
 **Case Studies**  
 - AI Agent Meaning Drift — Case Study  
-  https://github.com/rtfenter/AI-Agent-Meaning-Drift  
+  https://github.com/rtfenter/AI-Agent-Meaning-Drift-Case-Study 
 - Where AI agents accumulate state backpressure — a bounded-memory and meaning-alignment model *(coming)*  
 - Preventing retrieval hallucination under context drift — a contract-first approach *(coming)*  
 - Why enterprise copilots misinterpret business logic — missing contracts between domain models and LLM reasoning *(coming)*  
