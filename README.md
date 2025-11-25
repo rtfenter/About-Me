@@ -84,8 +84,8 @@ https://github.com/rtfenter/Loyalty-Systems-Series
 - **FX Drift Analyzer for Loyalty Value**  
   https://github.com/rtfenter/Loyalty-FX-Drift-Analyzer  
 
-- **Loyalty Ledger Reconciliation Sandbox** *(coming)*  
-
+- **Loyalty Ledger Reconciliation Sandbox**  
+  https://github.com/rtfenter/Loyalty-Ledger-Reconciliation-Sandbox  
 
 **Focus**  
 Loyalty mechanics as distributed systems: event quality, FX normalization, reconciliation, and cross-market value alignment.
