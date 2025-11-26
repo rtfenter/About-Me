@@ -25,9 +25,11 @@ https://github.com/rtfenter/AI-ML-UX-Systems-Series
 
 **Prototypes**  
 - Minimal RAG Query Explorer *(coming)*  
-- Chat Model Behavior Sandbox *(coming)*  
+- Chat Model Behavior Sandbox  
+  https://github.com/rtfenter/Chat-Model-Behavior-Sandbox  
 - Model Explainer Playground (XAI Lite) *(coming)*  
-- Prompt–Response Variation Explorer *(coming)*  
+- Prompt–Response Variation Explorer  
+  https://github.com/rtfenter/Prompt-Response-Variation-Explorer  
 - Embeddings Visual Map *(coming)*  
 
 **Focus**  
