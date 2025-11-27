@@ -11,9 +11,12 @@ Beyond enterprise delivery, my independent work examines how complex systems pre
 
 ---
 
+This GitHub is structured as a map of my work — beginning with lightweight AI interaction prototypes and expanding outward into systems design, event governance, platform tooling, and architectural frameworks.
+
+
 # Portfolio Overview
 
-This portfolio is organized into **seven series**, beginning with accessible AI/ML interaction prototypes and progressing toward deeper system architecture, platform tooling, and conceptual frameworks.
+If you’re exploring my work for the first time, the AI & ML UX Systems Series is the most accessible entry point — they’re lightweight interaction prototypes that show my model intuition, product thinking, and AI reasoning.
 
 ---
 
