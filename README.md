@@ -148,7 +148,7 @@ Interpretation layers, rule application, drift, alignment boundaries, and failur
 Internal platform tools for **integration pipelines, rule engines, debugging workflows, and data ownership mapping**.
 
 **Main Hub:**  
-https://github.com/rtfenter/Platform-Systems-Series
+https://github.com/rtfenter/Platform-Systems-Internal-Tooling-Series
 
 **Prototypes**  
 - Admin Rule Engine Playground *(coming)*  
