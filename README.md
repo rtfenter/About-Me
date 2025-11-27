@@ -33,8 +33,8 @@ https://github.com/rtfenter/AI-ML-UX-Systems-Series
 - Model Explainer Playground (XAI Lite) *(coming)*  
 - Prompt–Response Variation Explorer  
   https://github.com/rtfenter/Prompt-Response-Variation-Explorer  
-- Embeddings Visual Map
-  https://github.com/rtfenter/Embeddings-Visual-Map
+- Embeddings Visual Map  
+  https://github.com/rtfenter/Embeddings-Visual-Map  
 
 **Focus**  
 Accessible demonstrations of retrieval, prompting, embeddings, explainability, and model variability.
