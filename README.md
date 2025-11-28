@@ -41,7 +41,7 @@ Accessible demonstrations of retrieval, prompting, embeddings, explainability, a
 
 ---
 
-# 2. AI Agent Case Studies Series  
+# 2. Product Architecture Case Studies Series  
 Publicly observable system-level problems in modern AI agents, analyzed from a product architecture perspective.
 
 **Main Hub:**  
