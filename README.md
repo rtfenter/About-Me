@@ -154,7 +154,8 @@ Internal platform tools for **integration pipelines, rule engines, debugging wor
 https://github.com/rtfenter/Platform-Systems-Internal-Tooling-Series
 
 **Prototypes**  
-- Admin Rule Engine Playground *(coming)*  
+- **Admin Rule Engine Playground**  
+  https://github.com/rtfenter/Admin-Rule-Engine
 - Integration Pipeline Visualizer *(coming)*  
 - Debug / Replay Sandbox *(coming)*  
 - Invariants Visualizer *(coming)*  
