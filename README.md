@@ -137,8 +137,10 @@ https://github.com/rtfenter/Applied-Intelligence-Systems-Series
 - ML Input Drift Playground *(coming)*  
 - LLM Governance Visualizer *(coming)*  
 - Model Decision Graph Viewer *(coming)*  
-- Agent State Transition Map *(coming)*  
-- AI Failure Mode Explorer *(coming)*  
+- Agent State Transition Map  
+  https://github.com/rtfenter/Agent-State-Transition-Map  
+- AI Failure Mode Explorer  
+  https://github.com/rtfenter/AI-Failure-Mode-Explorer
 
 **Focus**  
 Interpretation layers, rule application, drift, alignment boundaries, and failure modes in modern AI systems.
